@@ -1,4 +1,3 @@
 # hello-world
-hey to the world
-im smart
+gorshtein is gay
 i changed nothing
